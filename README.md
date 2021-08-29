@@ -3,7 +3,7 @@
 ### Introduction
 
 The project is built using Node and TypeScript. You will need NPM or Yarn to build and run the application. Unit
-testing is done using Jest and can be seen in the *.test.ts files. A sample output from the program is stored in output/result.csv. 
+testing is done using Jest and can be seen in the *.test.ts files. A **sample output** from the program is stored in `output/result.csv`. 
 It was tested with Node 16.8 but it should work with Node 14+. 
 
 A basic flow of the program is:
