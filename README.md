@@ -20,5 +20,18 @@ are defined in `src/utils/data.ts`.
 ### Setup
 
 ```shell
-git clone git@github.com
+git clone git@github.com:Dragooon/coding-challenge.git
+cd coding-challenge
+yarn
 ```
+
+### Usage
+
+Run the app by:
+
+```shell
+yarn run app
+```
+It will present a prompt and guide you through the process. 
+
+![Usage](usage.png)
